@@ -4,6 +4,7 @@ vimv
 vimv renames files using a text editor.
 It generates a shell script to rename files and opens the text editor.
 Once the editor is closed, it executes the script.
+The filenames in the script are properly escaped.
 
 Example
 -------
